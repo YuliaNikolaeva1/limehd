@@ -1,0 +1,310 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image_1 {
+    width: 800px;
+    height: 800px;
+}
+
+.image_2 {
+    width: 60px;
+    height: 60px;
+}
+
+.image_3 {
+    width: 900px;
+    height: 800px;
+}
+
+.image_4 {
+    width: 300px;
+    height: 300px;
+}
+
+.image_5 {
+    width: 800px;
+    height: 700px;
+}
+
+.image_6 {
+    width: 800px;
+    height: 500px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.link {
+    display: flex;
+    gap: 25px;
+}
+
+.Wrapper {
+    margin: 0 auto;
+    max-width: 1700px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.block_top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.block_link {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    display: flex;
+    padding-top: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.medium_text {
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
+}
+
+.medium_block {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.medium_top_text {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.fs40fw600 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.fs25fw500 {
+    font-size: 25px;
+    font-weight: 500;
+    color: rgb(90, 89, 89);
+}
+
+
+.bottom_medium_block {
+    display: flex;
+    flex-direction: column;
+    gap: 45px;
+    padding-left: 15px;
+}
+
+.text_bottom_medium_block {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.bottom_blocks {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.block_news {
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+}
+
+.news_blocks {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.fs20fw500 {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(95, 95, 95);
+}
+
+.top_block {
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+}
+
+.left_top_block {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+a {
+    padding-left: 30px;
+}
+
+button {
+    border-radius: 30px;
+    background: black;
+    color: white;
+    padding: 20px;
+    border: none;
+    font-size: 25px;
+}
+
+.bottom_block {
+    display: flex;
+    gap: 40px;
+    justify-content: space-between;
+    padding-left: 40px;
+}
+
+.text_bottom_block {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.fs70fw700 {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1.3;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 60px;
+}
+
+.fs40fw700 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.chanels {
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    align-items: center;
+}
+
+.blocks_chanels {
+    display: flex;
+    justify-content: space-between;
+    gap: 70px;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.channels_one {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+img {
+    border-radius: 15px;
+    width: 80px;
+    height: 80px;
+}
+
+.text_chanels {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.fs25fw600 {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left_footer {
+    display: flex;
+    gap: 15px;
+}
+
+.text_top {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+img {
+    width: 60px;
+    height: 60px;
+}
+
+
+.block_2 {
+    display: flex;
+    gap: 80px;
+}
+
+.fs20fw600 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.text_block_2 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.fs18fw500 {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(95, 95, 95);
+}
+
+.text_block_3 {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(95, 95, 95);
+}
